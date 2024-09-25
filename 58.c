@@ -3,40 +3,33 @@
 #include<conio.h>
 void main()
 {
-    int n,r;
+    int n,ac,nac;
     char type;
     printf("Enter the number of days: ");
     scanf("%d",&n);
     printf("\nEnter the type of room 'a' for AC and 'n' for non-ac: ");
     scanf(" %c",&type);
-    if(type=='a'){
         if(n>0&&n<=5){
-            r=5000*n+50*n;
+            ac=5000*n+50*n;
+            nac=3000*n+50*n;
         }
         else if(n<=15){
-            r=5*5000+(n-5)*4500+50*n;
+            ac=5*5000+(n-5)*4500+50*n;
+            nac=5*3000+(n-5)*2700+50*n;
         }
         else if(n<=40){
-            r=5*5000+10*4500+(n-15)*4200+n*50;
+            ac=5*5000+10*4500+(n-15)*4200+n*50;
+            nac=5*3000+10*2700+(n-15)*2500+n*50;
         }
         else{
-            r=5*5000+10*4500+25*4200+(n-40)*3500+n*50;
+            ac=5*5000+10*4500+25*4200+(n-40)*3500+n*50;
+            nac=5*3000+10*2700+25*2500+(n-40)*2000+n*50;
         }
-    }
-    else{
-        if(n>0&&n<=5){
-            r=3000*n+50*n;
-        }
-        else if(n<=15){
-            r=5*3000+(n-5)*2700+50*n;
-        }
-        else if(n<=40){
-            r=5*3000+10*2700+(n-15)*2500+n*50;
+        if(type=='a'){
+        printf("\nrent=%d",ac);
         }
         else{
-            r=5*3000+10*2700+25*2500+(n-40)*2000+n*50;
+        printf("\nrent=%d",nac);
         }
     }
-    printf("\nrent=%d",r);
     
-}

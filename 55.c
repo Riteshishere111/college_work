@@ -6,23 +6,7 @@ void main()
     char c;
     printf("Enter a character: ");
     scanf("%c",&c);
-    if(c=='a'||c=='A')
-    {
-        printf("\n %c is a vowel",c);
-    }
-    else if(c=='e'||c=='E')
-    {
-        printf("\n %c is a vowel",c);
-    }
-    else if(c=='i'||c=='I')
-    {
-        printf("%c is a vowel",c);
-    }
-    else if(c=='o'||c=='O')
-    {
-        printf("\n %c is a vowel",c);
-    }
-    else if(c=='u'||c=='U')
+    if(c=='a'||c=='A'||c=='e'||c=='E'||c=='i'||c=='I'||c=='o'||c=='O'||c=='u'||c=='U')
     {
         printf("\n %c is a vowel",c);
     }
