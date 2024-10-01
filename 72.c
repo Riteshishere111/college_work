@@ -4,7 +4,7 @@ void main()
 {
    int i,a;
     for(i=1;i<=5;i++){
-        a=i;
+        a=i-1;
         printf("%d\n",a);
     }
 }

@@ -5,6 +5,6 @@ void main()
    int i,a;
     for(i=1;i<=5;i++){
         a=i;
-        printf("%d\n",a);
+        printf("%d\n",a*a);
     }
 }
