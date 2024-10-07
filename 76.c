@@ -1,3 +1,4 @@
+//Write a program to print first n natural number
 #include <stdio.h>
 #include <conio.h>
 void main()

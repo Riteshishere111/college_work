@@ -1,14 +1,14 @@
+//Write a program to print first n odd number
 #include<stdio.h>
 #include<conio.h>
 void main()
 {
-int n,i,a;
+int n;
 printf("\n enter the value of n");
 scanf("%d",&n);
-a=2;
-for(i=1; i<=5; i++)
-{
-    a=a+2;
-    printf("\n%d",a);
-}
+
+   int i;
+    for(i=1;i<=n;i+=2){
+        printf("%d\n",i);
+    }
 }
