@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(235, 19, 148);
+}
+
+#outer {
+    height: 1000px;
+    width: 1000px;
+    border: 10px solid;
+    margin: 0px auto;
+    border-radius: 20px;
+
+
+}
+#nav{
+    height: 100px;
+    width: 100px;
+    border: 10px solid;
+    background-color: aqua;
+    margin: 0px auto;
+    border-radius: 20px;
+
+
+}
+#slider{
+    height: 1000px;
+    width: 50px;
+    background-color: blueviolet;
+    border: 10px solid;
+    margin: 0px auto;
+    border-radius: 20px;
+
+}

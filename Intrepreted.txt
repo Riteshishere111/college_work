@@ -1,0 +1,29 @@
+Intrepreted
+-----------
+
+			Translator
+1. Compiler					2.Intrepreter
+
+source code------------------------------------->>Machine language
+
+
+
+
+Object Oriented
+----------------
+
+
+Fruit   //class
+apple   // Object
+
+
+
+Dynamic Semantics 
+------------------
+a=5
+
+
+Static Sementics
+
+
+int a=5;

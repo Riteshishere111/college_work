@@ -20,10 +20,10 @@ void main()
     }
     if (s == a)
     {
-        printf("%d is a neon number", a);
+        printf("%d number is armstrong ", a);
     }
     else
     {
-        printf("%d is a not a neon number", a);
+        printf("%d number is not armstrong ", a);
     }
 }
