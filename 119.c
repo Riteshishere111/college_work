@@ -1,0 +1,1 @@
+// Write a program to print sum of following series  7 + 26 + 63 + 124............n

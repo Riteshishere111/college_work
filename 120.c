@@ -1,0 +1,1 @@
+// Write a program to print sum of following series 3 + 6 + 12 + 24 + 48.................n

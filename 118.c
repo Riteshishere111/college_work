@@ -1,0 +1,1 @@
+// Write a program to print sum of following series 2 + 5 + 10 + 17...................n
