@@ -1,7 +1,7 @@
 # Details Table banane ke liye chota sa Program................
 # User se details lene ke liye
 name = input("Apna naam daaliye ji : ")
-dob = eval(input("Apna date of birth (DD/MM/YYYY) daaliye ji : "))
+dob = input("Apna date of birth (DD/MM/YYYY) daaliye ji : ")
 father_name = input("Apne pita ji ka naam daaliye: ")
 mother_name = input("Apne maa ka naam daaliye: ")
 email = input("Apna email daaliye ji : ")

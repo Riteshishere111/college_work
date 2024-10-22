@@ -1,3 +1,0 @@
-programs check
-loop 20
-sutras learn
