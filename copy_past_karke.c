@@ -2,8 +2,8 @@
 #include <stdbool.h>
 #include <string.h> // strcpy and strcat ke liye 
 
-// Enum for Suit
-typedef enum
+    // Enum for Suit
+        typedef enum
  {
     spade,
     heart,
@@ -109,7 +109,7 @@ int main()
 /************************************************************************************************************* */
  
 //neeche bale me kuch galti hai pata nahi kya hai per hai kuch itna aata nahi to kiya nahi karunga jarur time lagega 
- 
+
 /*#include <stdio.h>
 #include <stdbool.h>
 #include <string.h> 
