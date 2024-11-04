@@ -1,5 +1,5 @@
 /* WAP to print calculate of the series ..
-                                        1- (1-x^1)/4!+(1-x^1+x^4)/8!-(1-x^1+x^4-x^3)/16!+ .....n terms*/
+                      1- (1-x^1)/4!+(1-x^1+x^4)/8!-(1-x^1+x^4-x^3)/16!+ .....n terms*/
 
 #include <stdio.h>
 #include <conio.h>
