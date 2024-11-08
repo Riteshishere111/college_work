@@ -8,9 +8,4 @@ void main()
         a=i*i;
         printf("%d\n",a);
     }
-if (/* condition */)
-{
-    /* code */
-}
-
 }
