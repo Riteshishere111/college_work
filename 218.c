@@ -3,7 +3,7 @@
 #include <conio.h>
 void main()
 {
-    int black[5], white[5], sum[5], i, j, k;
+    int black[5], white[5], i, j, k;
     for (i = 0; i <= 4; i++)
     {
         printf("Enter the value for index %d: ", i);

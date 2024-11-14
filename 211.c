@@ -13,7 +13,6 @@ void main()
     int k;
     for (k = 0; k <= 4; k++) // value print jra rahe he
     {
-
         printf("the value of index %d = %d\n", k, ARRAY[k]);
     }
 }

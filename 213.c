@@ -1,4 +1,4 @@
-// WAP intput 5 elements and calculate the products of even elements 
+// WAP input 5 elements and calculate the products of even elements 
 #include <stdio.h>
 #include <conio.h>
 void main()
