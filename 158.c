@@ -1,0 +1,1 @@
+\\                                 ~~ patterns ~~ \*WAP to follow series..........                                *******                                 *****                                  ***                                   **\
