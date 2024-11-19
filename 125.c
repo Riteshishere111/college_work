@@ -9,7 +9,7 @@ a=3;
 b=6;
 s=0;
 printf("\n enter a number=");
-scanf("%d");
+scanf("%d",&n);
 for(i=1; i<=n; i++)
 {
     a=a+6;

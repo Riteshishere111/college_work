@@ -8,7 +8,7 @@ float s;
 a=0;p=0;
 s=0;
 printf("\n enter a number=");
-scanf("%d%d,&n,&x");
+scanf("%d%d",&n,&x);
 for(i=1; i<=n;i++)
 {
 p=p+1;
