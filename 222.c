@@ -1,3 +1,5 @@
+// WAP to input 5 Elements into an array and print sum of digits of each elements using functions.
+
 #include <stdio.h>
 #include <conio.h>
 int digit(int);

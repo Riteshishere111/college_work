@@ -1,3 +1,4 @@
+//  WAP to input 5 Elements into an array calculate Factorial value of each elements using Function.
 #include <stdio.h>
 #include <conio.h>
 int fact(int);

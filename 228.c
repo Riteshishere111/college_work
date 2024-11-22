@@ -1,4 +1,4 @@
-// write a program to enter an 5 element in array and arrange the elements un asceding order
+// write a program to enter an 5 element in array and arrange the elements in asceding order
 #include <stdio.h>
 #include <conio.h>
 void main()
