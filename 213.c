@@ -13,12 +13,11 @@ void main()
     int k;
     int pro;
     pro = 1;
-
-    for (k = 0; k <= 4; k++) // value print jra rahe he
-    {
-        if(ARRAY[k]%2==0){
-        pro = pro * ARRAY[k];   // 2*4
-        }
-    }
-    printf("The product  of all elements of array is = %d", pro);
+ for (k = 0; k <= 4; k++) // value print jra rahe he
+{
+ if(ARRAY[k]%2==0){
+   pro = pro * ARRAY[k];   // 2*4
+     }
+   }
+  printf("The product  of all elements of array is = %d", pro);
 }
