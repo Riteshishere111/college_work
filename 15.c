@@ -1,4 +1,4 @@
-// Write a program to input one integer ,decimal , and character , value and print them in different lines with sesstable message.
+// Write a program to input one integer ,decimal , and character , value and print them in different lines with suitable message.
 
 #include <stdio.h>
 #include <conio.h>
