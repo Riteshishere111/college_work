@@ -1,3 +1,5 @@
+// Write a program to input the diameter of the circle, calculate area and circumference.
+
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
