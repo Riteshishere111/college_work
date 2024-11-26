@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <math.h>
 
-int main()
+void main()
 {
     int  d,r,a,c;
     printf("\n Enter the diameter of the circle =");
@@ -11,6 +11,5 @@ int main()
     a=3.14159*r*r;
     c=2*3.14159*r;
     printf("\n Area of the circle =%d",a);
-     printf("\n Circlumference of the circle =%d",c);
-    return 0;
+    printf("\n Circumference of the circle =%d",c);
 }
