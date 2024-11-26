@@ -15,8 +15,7 @@ void main()
         }
         else
         {
-            for (j = 5; j <= 14
-             - i; j++)
+            for (j = 5; j <= 14 - i; j++)
             {
                 printf("%d", j);
             }
