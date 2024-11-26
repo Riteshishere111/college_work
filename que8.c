@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-int main()
+void main()
 {
     int a;
     float b;
@@ -12,5 +12,4 @@ int main()
     printf("\n value of  a=%d",a);
     printf("\n value of b=%f",b);
     printf("\n value of a=%c",c);
-    return 0;
 }
