@@ -1,7 +1,9 @@
+// Write a program to print the square root of the given number by user as input.
+
 #include <stdio.h>
 #include <conio.h>
 #include<math.h>
-int main()
+Void main()
 {
     int a;
     float b;
@@ -9,5 +11,4 @@ int main()
     scanf("%d",&a);
      b=sqrt(a);
      printf("\n Squar Root value is = %f",b);
-        return 0;
 }
