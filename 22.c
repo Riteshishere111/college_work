@@ -1,3 +1,5 @@
+// Write a program to input principal, rate and time, calculates simple interest and compound interest.
+
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
