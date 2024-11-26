@@ -1,3 +1,5 @@
+// Write a program to input length of base and height of a triangle and calculate its area.
+
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
