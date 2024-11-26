@@ -9,7 +9,7 @@ int main()
 {
     int n, i, s;
 
-    printf("/n Enter the number of terms: ");
+    printf("\n Enter the number of terms: ");
     scanf("%d", &n);
 
     printf("Series: ");
