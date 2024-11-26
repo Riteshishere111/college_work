@@ -1,3 +1,5 @@
+// Write a program to input initial velocity(v),acceleration(a)and time (t),calculate its final velocity and distance.
+
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
