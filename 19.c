@@ -1,3 +1,5 @@
+// Write a program to take the length and breadth of a rectangle and print its area and perimeter.
+
 #include <stdio.h>
 #include <conio.h>
 #include<math.h>
