@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-int main()
+void main()
 {
     int a;
     float b;
@@ -15,5 +15,4 @@ int main()
     printf("\n Enter a character =");
         scanf("%c",&c);
         printf("\n integer value=%d\n Decimal value=%f \n Character value=%c",a,b,c);
-    return 0;
 }
