@@ -1,3 +1,5 @@
+// write a program to take1 integer , float and 1 character variable using the value to these lines with a stutable message .
+
 #include <stdio.h>
 #include <conio.h>
 
