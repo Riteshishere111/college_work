@@ -9,7 +9,7 @@ void main()
     printf("\n Enter the length = ");
      printf("\n Enter the length = ");
     scanf("%d",&l);
-    printf("\n Enter the Wridth = ");
+    printf("\n Enter the breadth = ");
     scanf("%d",&b);;
     a=l*b;
     p=2*(l+b);
