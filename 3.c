@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <conio.h>
 
-int main()
+void main()
 {
     printf("\n Jhansi");
     printf("\n Nodia");
-    return 0;
 }
