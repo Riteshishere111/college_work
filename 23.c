@@ -1,3 +1,5 @@
+// Write a program to input length , breadth, height of a cuboids calculate its value total surface area and length of diagonal.
+
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
