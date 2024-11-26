@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <math.h>
 
-int main()
+void main()
 {
     float l,t,p;
     printf("\n Enter the length of the pendulum = ");
@@ -11,5 +11,4 @@ int main()
     p=1/t;
     printf("\n Time period of the pendulum = %f",t);
     printf("\n Frequency of the pendulum = %f",p);
-    return 0;
 }
