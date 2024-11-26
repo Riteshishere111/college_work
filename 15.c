@@ -1,3 +1,5 @@
+// Write a program to input one integer ,decimal , and character , value and print them in different lines with sesstable message.
+
 #include <stdio.h>
 #include <conio.h>
 
