@@ -1,3 +1,5 @@
+// Write a program to input length of hypotenuse & perpendicular of a right angle triangle , calculate length of its base.
+
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
