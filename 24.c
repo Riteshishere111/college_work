@@ -1,3 +1,5 @@
+// Write a program to input the length of a simple pendulum , calculate its time period and frequency.
+
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
