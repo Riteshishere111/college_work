@@ -5,6 +5,7 @@ void swap(int *, int *);
 void main()
 {
     int a, b;
+
     printf("\nEnter 2 numbers: ");
     scanf("%d %d", &a, &b);
     printf("\nBefore swap in main a=%d, b=%d", a, b);
